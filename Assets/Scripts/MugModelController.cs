@@ -63,6 +63,8 @@ public class MugModelController : MonoBehaviour
         }
 
         _meshRenderer.enabled = isVisible;
+
+        
      }
 
     /// <summary>Chamado pelo Button (On Click). Restaura posição, rotação e escala iniciais.</summary>
